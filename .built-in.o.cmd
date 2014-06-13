@@ -1,0 +1,1 @@
+cmd_/root/android/adt-bundle-linux-x86-20140321/eclipse/workspace/pwm/built-in.o :=  rm -f /root/android/adt-bundle-linux-x86-20140321/eclipse/workspace/pwm/built-in.o; arm-linux-ar rcsD /root/android/adt-bundle-linux-x86-20140321/eclipse/workspace/pwm/built-in.o
