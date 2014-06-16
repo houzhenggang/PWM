@@ -31,4 +31,7 @@
 #define PWM_ID		0
 #define PWM_GPIO	S5PV210_GPD0(0)
 
+
+extern static struct pwm_device Pwm_devive;
+
 #endif /* PWM_H_ */
